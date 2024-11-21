@@ -2580,7 +2580,7 @@ TextLabel.TextSize = 19.000
 UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.01, Color3.fromRGB(23, 48, 235)), ColorSequenceKeypoint.new(0.16, Color3.fromRGB(55, 23, 235)), ColorSequenceKeypoint.new(0.35, Color3.fromRGB(219, 13, 30)), ColorSequenceKeypoint.new(0.68, Color3.fromRGB(8, 152, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(114, 187, 255))}
 UIGradient.Parent = TextLabel
 print("--[[Loaded UI]]--")
-Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/Hackbachvothuong/Faichinh/refs/heads/main/FixedFluent.lua"))()
+Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/HiruEluent/refs/heads/main/FixedFluent.lua"))()
 SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 Window = Fluent:CreateWindow({
