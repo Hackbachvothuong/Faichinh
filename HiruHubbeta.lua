@@ -212,7 +212,7 @@ ttittles.BackgroundTransparency = 1
 ttittles.Position = UDim2.new(0,30,0.05,0)
 ttittles.Size = UDim2.new(0, 255, 0.05, 25)
 ttittles.Font = Enum.Font.SourceSansBold
-ttittles.Text = "Hiru Hub"
+ttittles.Text = "Hiru Hub & Min Gaming"
 ttittles.TextSize = 17.000
 ttittles.TextColor3 = Color3.fromRGB(232, 35, 84)
 ttittles.TextXAlignment = Enum.TextXAlignment.Left
@@ -12968,7 +12968,7 @@ end)
 --------------------------------------------------------------------------------------------------------
 local players = game:GetService("Players")
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Hiru Hub";
+    Title = "Hiru Hub & Min Gaming";
     Text = "Tải Hoàn Tất!";
     Icon = "rbxthumb://type=Asset&id=92984205310992&w=150&h=150";
     Duration = 10
